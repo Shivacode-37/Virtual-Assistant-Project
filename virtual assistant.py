@@ -17,7 +17,7 @@ recognizer = sr.Recognizer()
 engine = pyttsx3.init()
 
 # OpenAI API key (replace with your own key)
-openai.api_key = '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'
+openai.api_key = 'your_own_api_key'
 
 # Weather API key (replace with your own key)
 weather_api_key ='http://api.openweathermap.org/data/2.5/forecast?id=524901&appid={API key}'
